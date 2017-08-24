@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form1.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.exe
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.pdb
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form2.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.exe
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.pdb
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form1.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form2.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form3.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form4.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form5.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form6.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form7.resources
+C:\Users\User\Desktop\КУРСАЧ КПЕП\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.AboutBox1.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.AboutBox1.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form3.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form4.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form5.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form6.resources
+C:\Users\User\Desktop\КУРСАЧ\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form7.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.exe
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.pdb
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.AboutBox1.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form1.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form2.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form3.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form4.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form5.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form6.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Form7.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\obj\x86\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Users\User\Desktop\КУРСОВОЙ КПиЯП\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
